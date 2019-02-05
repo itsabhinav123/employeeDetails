@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "name": "John"
+      "name": "John",
       "organisation": "DevOPS"
     }
     {
       "id": 2,
-      "name": "Smith"
+      "name": "Smith",
       "organisation": "SmartOPS"
     }
   ],
